@@ -53,6 +53,7 @@ The Arduino code reads sensor values, compares them with predefined thresholds, 
 ![Uploading OUTPPUT.png…]()
 
 
+
 ## 🚀 How to Run
 
 1. Connect all components as per circuit diagram
