@@ -88,6 +88,8 @@ The Arduino code reads sensor values, compares them with predefined thresholds, 
 
 ## 👨‍💻 Author
 
-Your Name
+Sasyak Subudhi(PES1UG24AM256)
+SUJAN S M (PES1UG24AM292)
+Swasthik Pamadi (PES1UG24AM298)
 
 ---
